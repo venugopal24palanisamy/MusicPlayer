@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MusicPlayer</string>
+    <string name="onboard_one_dec">One good thing about music, when it hits you, you feel no pain. - Bob Marley</string>
+    <string name="onboard_two_dec">Music is the literature of the heart; it commences where speech ends.  - Alphonse de Lamartine</string>
+    <string name="onboard_three_dec">Music is your own experience, your thoughts, your wisdom. If you don’t live it, it won’t come out of your horn. - Charlie Parker
+</string>
+    <string name="next">Next</string>
 </resources>
